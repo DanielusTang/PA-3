@@ -1,0 +1,8 @@
+*.o
+main
+libthreading.so
+*.so
+*.exe
+.vscode/
+*.swp
+*~
